@@ -66,6 +66,10 @@ Built using **Unity** and **C#**, this project provides a relaxing yet challengi
 
 ## 📽️ Demo
 
+
+https://github.com/user-attachments/assets/d4e81964-1ed5-4840-8882-6adff19d0290
+
+
 🎥 *Gameplay Showcase*  
 
 👉 Add your demo video or GIF here, e.g.:  
